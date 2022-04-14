@@ -64,10 +64,12 @@ h1 {
 /* hero image and text */
 
 #hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
+  height: 600px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 #hero-image {
@@ -77,14 +79,14 @@ h1 {
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-fill-mode: backwards;
 }
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
     from {
-        transform: scale(1.2);
+        transform: scale(1.1);
     }
     to {
         transform: scale(1);
@@ -92,21 +94,11 @@ h1 {
 }
 
 #hero-text {
-    font-size: 130%;
-    font-family: Inter, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-
-    width: 400px;
-    height: 400px;
-
-    padding-top: 10px;
-    padding-left: 10px;
-
-    background-color: rgba(241, 109, 107, .7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
+  text-align: right;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding-right: 20px;
+  font-size: 160%;
+  color: white;
 }
