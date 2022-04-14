@@ -10,7 +10,7 @@ body {
     font-family: Inter, sans-serif;
     font-weight: 300;
     color: #003566;
-    background-color: rgb(245, 204, 0);
+    /* background-color: rgb(245, 204, 0, .6); */
     max-width: 2000px;
     margin: 0 auto;
 }
@@ -24,7 +24,7 @@ header {
 
 h1 {
     font-family: Bebas Neue, sans-serif;
-    letter-spacing: 3px;
+    letter-spacing: 8px;
     color: #CCA000;
     font-size: 100px;
 }
@@ -32,7 +32,8 @@ h1 {
 #logo {
     float: left;
     margin-left: 20px;
-    text-shadow: 4px 4px 4px rgb(245, 204, 0, .3);
+    -webkit-text-stroke: .2px white;
+    text-stroke: .2px white;
 }
 
 /* navigation menu */
@@ -57,5 +58,5 @@ h1 {
 }
 
 #navigation a:hover {
-    color: #003566;
+    color: white;
 }
