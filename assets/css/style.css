@@ -94,11 +94,16 @@ h1 {
 }
 
 #hero-text {
-  text-align: right;
+  text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
   padding-right: 20px;
   font-size: 160%;
   color: white;
+}
+
+#hero-outer h3 {
+    font-style: italic;
+    font-size: 100%;
 }
