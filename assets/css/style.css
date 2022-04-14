@@ -13,3 +13,17 @@ body {
     max-width: 2000px;
     margin: 0 auto;
 }
+
+/* heading and logo */
+h1 {
+    font-family: Bebas Neue, sans-serif;
+    letter-spacing: 3px;
+    color: #003566;
+    font-size: 100px;
+}
+
+#logo {
+    float: left;
+    margin-left: 20px;
+    text-shadow: 4px 4px 4px rgb(0, 8, 20, .4);
+}
