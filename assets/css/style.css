@@ -138,7 +138,8 @@ h1 {
 
 .columns {
     display: flex;
-    background-color: rgb(0, 8, 20, 0.5);
+    background-color: rgb(0, 8, 20);
+    box-shadow: -1px -5px 8px rgb(0, 8, 20), 1px 5px 8px rgb(0, 8, 20);
 }
 
 .columns div {
@@ -149,4 +150,22 @@ h1 {
     justify-content: flex-end;
     display: block;
     color: white;
+}
+
+.columns h2 {
+    font-family: Bebas Neue, sans-serif;
+    color: #CCA000;
+}
+
+/* footer */
+
+
+
+#footer-disclaimer {
+    text-align: center;
+    clear: both;
+    padding: 10px 10px;
+    color: #CCA000;
+    background-color: rgb(0, 8, 20);
+    box-shadow: -1px -5px 6px rgb(0, 8, 20);
 }
