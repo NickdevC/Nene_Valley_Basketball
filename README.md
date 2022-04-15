@@ -46,4 +46,12 @@ Nene Valley Basketball Club is a real sports club based in Peterborough, UK. The
 
 ## Credits
 
+-  ### Photos Used
+-  Index.html 'hero image' - Photo from 'Pixabay'
+
+-  ### Specific Coding Support
+-  'How to outline text' -SlackOverflow
+-  'How to animate an image' - Love Running (Code Institute project)
+  
+
   
