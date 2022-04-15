@@ -76,6 +76,7 @@ h1 {
     height: 600px;
     width: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/basketball_hero\ \(1\).jpg') no-repeat center center;
+    box-shadow: 4px 4px 4px rgb(0, 8, 20, .5);
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -125,4 +126,10 @@ h1 {
 #hero-outer .btn:hover {
     background-color: white;
     color: #CCA000;
+}
+
+/* home sub-heading */
+
+#home-blurb {
+    margin: 2% 33% 10% 33%;
 }
