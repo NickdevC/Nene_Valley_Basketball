@@ -9,7 +9,7 @@
 body {
     font-family: Inter, sans-serif;
     font-weight: 300;
-    color: #003566;
+    color: rgb(0, 29, 61);
     /* background-color: rgb(245, 204, 0, .6); */
     max-width: 2000px;
     margin: 0 auto;
@@ -75,7 +75,7 @@ h1 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/basketball_hero\ \(1\).jpg') no-repeat center center;
+    background: /*linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),*/ url('../images/basketball_hero\ \(1\).jpg') no-repeat center center;
     box-shadow: 4px 4px 4px rgb(0, 8, 20, .5);
 
     /* animates zoom effect on loading page */
@@ -131,15 +131,14 @@ h1 {
 /* home sub-heading */
 
 #home-blurb {
-    margin: 2% 33% 5% 33%;
+    margin: 5% 33% 5% 33%;
+    
 }
 
 /* home 'about information' columns */
 
 .columns {
     display: flex;
-    background-color: rgb(0, 8, 20);
-    box-shadow: -1px -5px 8px rgb(0, 8, 20), 1px 5px 8px rgb(0, 8, 20);
 }
 
 .columns div {
@@ -149,12 +148,19 @@ h1 {
     padding-right: 40px;
     justify-content: flex-end;
     display: block;
-    color: white;
+    line-height: 30px;
+    font-size: 20px;
 }
 
 .columns h2 {
     font-family: Bebas Neue, sans-serif;
-    color: #CCA000;
+    color: rgb(0, 8, 20);
+    font-size: 42px;
+    margin-bottom: 5px;
+}
+
+.columns i {
+    margin-left: 10px;
 }
 
 /* footer */
