@@ -59,6 +59,8 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 -  ### Photos Used
 -  Index.html 'hero image' - Photo from 'Pixabay'
+-  Youth basketball image - Photo by <a href="https://unsplash.com/@tjump?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik Shuliahin</a> on <a href="https://unsplash.com/s/photos/youth-basketball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 -  ### Specific Coding Support
 -  'How to outline text' -SlackOverflow
