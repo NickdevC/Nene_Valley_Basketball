@@ -257,16 +257,27 @@ tr:hover {
 
 /* training information */
 
+.training-columns {
+    display: flex;
+    padding: 2% 26%;
+}
+
 .training-container {
-    *background-color: #CCA000;
-    height: 800px;
-    width: 30%;
-    margin: 5px 10px 10px 10px;
-    text-align: center;
+    margin: 10px 20px;
+    background-color: rgb(0, 8, 20);
+    padding: 10px 20px;
+}
+
+.training-container h2 {
+    font-family: Bebas Neue, sans-serif;
+    color: rgb(204, 160, 0);
+    font-size: 60px;
+    
 }
 
 .training-container h3 {
     font-family: Inter, sans-serif;
-    color: rgb(0, 29, 61);
-    
+    color: rgb(204, 160, 0);
+    font-size: 30px;
+    margin: 5px;
 }
