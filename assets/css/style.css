@@ -132,6 +132,7 @@ h1 {
 
 #home-blurb {
     margin: 5% 33% 5% 33%;
+    text-align: center;
     
 }
 
@@ -154,8 +155,10 @@ h1 {
 
 .columns h2 {
     font-family: Bebas Neue, sans-serif;
-    color: rgb(0, 8, 20);
+    color: rgb(204, 160, 0);
     font-size: 42px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgb(0, 29, 61, .4);
     margin-bottom: 5px;
 }
 
@@ -174,4 +177,19 @@ h1 {
     color: #CCA000;
     background-color: rgb(0, 8, 20);
     box-shadow: -1px -5px 6px rgb(0, 8, 20);
+}
+
+.footer-socials {
+    text-align: center;   
+}
+
+.footer-socials > li {
+    display: inline;
+}
+
+.footer-socials i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 2%;
+    color: rgb(204, 160, 0);
 }
