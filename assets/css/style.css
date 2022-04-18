@@ -193,3 +193,51 @@ h1 {
     padding: 2%;
     color: rgb(204, 160, 0);
 }
+
+/* fixtures table */
+
+#table h1 {
+    font-family: Bebas Neue, sans-serif;
+    color: rgb(204, 160, 0);
+    margin: 5% 10% 5% 10%;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(0, 29, 61, .4);
+}
+
+#table-container {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+#fixtures {
+    width: 100%;
+    font-family: Inter, sans-serif;
+    color: rgb(0, 29, 61);    
+}
+
+#fixtures th {
+    font-size: 120%;
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(204, 160, 0);
+    color: white;
+}
+
+th, tr {
+    vertical-align: middle;
+}
+
+th, td {
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 8, 20);
+}
+
+tr:hover {
+    background-color: rgb(251, 139, 36, .7);
+}
