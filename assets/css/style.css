@@ -25,7 +25,7 @@ header {
 }
 
 h1 {
-    font-family: Bebas Neue, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     letter-spacing: 8px;
     color: #CCA000;
     font-size: 100px;
@@ -47,7 +47,7 @@ h1 {
 
 #navigation {
     font-size: 180%;
-    font-family: Bebas Neue, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     text-align: center;
 
 }
@@ -145,6 +145,19 @@ h1 {
 #home-blurb {
     margin: 5% 22% 5% 22%;
     text-align: center;  
+}
+
+#home-blurb h2 {
+    font-size: 100px;
+    font-family: "Bebas Neue", sans-serif;
+    color: rgb(204, 160, 0);
+    letter-spacing: 3px;
+}
+
+#home-blurb h3 {
+    font-size: 30px;
+    font-family: Inter, sans-serif;
+    color: rgb(0, 29, 61);
 }
 
 /* home 'about information' columns */
@@ -281,6 +294,7 @@ tr:hover {
     justify-content: flex-end;
     display: block;
     border-radius: 8px;
+    box-shadow: 4px 4px 6px rgb(204, 160, 0);
 }
 
 .training-container h2 {
@@ -450,12 +464,34 @@ input[type=submit]:hover {
         display: none;
     }
 
+    #navigation {
+        font-size: 120%;
+    }
+
+    #navigation li {
+        white-space: normal;
+        margin-right: 12px;
+    }
+
+    #hero-text {
+        width: 300px;
+        bottom: 200px;
+    }
+
     .columns {
-        width: 80%;
+        width: 95%;
+    }
+
+    .columns div {
+        font-size: 18px;
+    }
+
+    .columns h2 {
+        font-size: 36px;
     }
 
     .training-columns {
-        width: 75%;
+        width: 90%;
     }
 
     .training-container {
@@ -464,11 +500,11 @@ input[type=submit]:hover {
     }
 
     .training-container h2 {
-        font-size: 30px;
+        font-size: 50px;
     }
 
     .training-container h3 {
-        font-size: 20px;
+        font-size: 30px;
     }
 
 }
