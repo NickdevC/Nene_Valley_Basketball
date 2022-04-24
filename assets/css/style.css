@@ -294,6 +294,7 @@ tr:hover {
     padding: 10px;
     background-color: rgb(204, 160, 0, .3);
     margin-left: 10%;
+    margin-right: 5%;
     border-radius: 10px;
 }
 
@@ -356,4 +357,19 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: white;
+}
+
+.mapouter {
+    float: left;
+    margin-left: 5%;
+    margin-right: 10%;
+    height: 520px;
+    width: 33%;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height: 520px;
+    width: 100%;
 }
