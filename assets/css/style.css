@@ -404,7 +404,6 @@ input[type=submit]:hover {
 @media screen and (max-width: 1078px) {
     .columns {
         width: 65%;
-        height: 1200px;
         margin: 0 auto;
         flex-direction: column;
     }
@@ -430,7 +429,6 @@ input[type=submit]:hover {
 
     .training-columns {
         width: 65%;
-        height: 600px;
         margin: 0 auto;
         flex-direction: column;
     }
@@ -455,5 +453,23 @@ input[type=submit]:hover {
     .columns {
         width: 80%;
     }
+
+    .training-columns {
+        width: 75%;
+    }
+
+    .training-container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .training-container h2 {
+        font-size: 30px;
+    }
+
+    .training-container h3 {
+        font-size: 20px;
+    }
+
 }
     
