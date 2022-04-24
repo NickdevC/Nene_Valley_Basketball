@@ -33,10 +33,20 @@
     </header>
     <section id="form">
         <h1 class="shadow-heading">Contact Us</h1>
-        <form action="">
+        <div id="form-container">
+        <form action="" method="post" autocomplete="on">
             <label for="name">Name:</label>
-            <input type="text" id="name" name="name" value="Your name here">
+            <input type="text" id="name" name="name" placeholder="Your name here..." required><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Your email here..." required><br>
+            <label for="juniors">Juniors (11-16)</label>
+            <input type="radio" id="juniors" name="training-group" value="Juniors (11-16)">
+            <label for="seniors">Seniors (16+)</label>
+            <input type="radio" id="seniors" name="training-group" value="Seniors (16+)"><br>
+            <textarea name="details" id="details" cols="30" rows="10" placeholder="Enter your questions/queries here..."></textarea><br>
+            <input type="submit" value="Submit">
         </form>
+        </div>
     </section>
 <!-- footer -->
 
