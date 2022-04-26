@@ -53,17 +53,17 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 - ### Existing Features
       
--     __Navigation Bar__
+-   __Navigation Bar__
 
-      - The navigation bar... 
-      
+    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Fixtures and Training, and Contact links and is responsive on multiple screen sizes.  On medium sized screens (smaller laptops or ipads), the navigation menu moves to under the logo. On small screen sizes (mobile phones), the logo is abbreviated to ensure legibility, accessibility and effective use of space.
+
       ![Navbar](documentation/supporting_images/NVV_navbar.jpg)
 
--     __Hero image and call to action__
+-   __Hero image and call to action__
 
-      - The hero image...
+    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Fixtures and Training, and Contact links and is responsive on multiple screen sizes.  On medium sized screens (smaller laptops or ipads), the navigation menu moves to under the logo. On small screen sizes (mobile phones), the logo is abbreviated to ensure legibility, accessibility and effective use of space.
 
-      ![Hero image](documentation/supporting_images/NVV_landing.jpg)
+      ![Navbar](documentation/supporting_images/NVV_landing.jpg)
 
 ## Design
 
