@@ -1,8 +1,10 @@
-<h1 align="center"> :basketball: Nene Valley Basketball Club Website :basketball: </h1>
+<h1 align="center"> :basketball: Nene Valley Venom Basketball Club Website :basketball: </h1>
 
 [View the live project here](http://nickdevc.github.io/Nene_Valley_Basketball/)
 
 Nene Valley Basketball Club is a real sports club based in Peterborough, UK. The club has been a big part of the local basketball scene for many years and provides training for both junior and senior players. Having spoken to the owner and head coach of the club, I was kindly given permission to create a new website for them that would be functional for existing members, whilst also remaining accessible and eye-catching to new potential players.
+
+![mockup](documentation/supporting_images/NVV_mockup.jpg)
 
 ## Index - Table of Contents
 *  [Purpose](#purpose)
@@ -48,6 +50,20 @@ To provide an engaging and appealing space to prospective players, encouraging t
       1. I want to be able to sign-up to the mailing list for regular club updates
 
 ## Features
+
+- ### Existing Features
+      
+-     __Navigation Bar__
+
+      - The navigation bar... 
+      
+      ![Navbar](documentation/supporting_images/NVV_navbar.jpg)
+
+-     __Hero image and call to action__
+
+      - The hero image...
+
+      ![Hero image](documentation/supporting_images/NVV_landing.jpg)
 
 ## Design
 
