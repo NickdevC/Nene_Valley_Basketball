@@ -174,7 +174,7 @@ h1 {
 
 .gallery {
     display: flex;
-    box-sizing: border-box;
+    flex-direction: row;
 }
 
 /* home 'about information' columns */
@@ -331,13 +331,12 @@ tr:hover {
 
 /* form */
 
+#form {
+    box-sizing: border-box;
+}
+
 #form-container {
-    float: left;
-    width: 33%;
-    padding: 10px;
     background-color: rgb(204, 160, 0, .3);
-    margin-left: 10%;
-    margin-right: 5%;
     border-radius: 10px;
 }
 
@@ -346,6 +345,12 @@ form {
 }
 
 label {
+    font-size: 22px;
+    font-family: inter, sans-serif;
+    color: rgb(0, 8, 20, .8);
+}
+
+form p {
     font-size: 22px;
     font-family: inter, sans-serif;
     color: rgb(0, 8, 20, .8);
@@ -402,20 +407,26 @@ input[type=submit]:hover {
     background-color: white;
 }
 
-.mapouter {
-    float: left;
-    margin-left: 5%;
-    margin-right: 10%;
-    height: 520px;
-    width: 33%;
-}
-
 .gmap_canvas {
     overflow:hidden;
     background:none!important;
     height: 520px;
     width: 100%;
 }
+
+.contact-block {
+  float: left;
+  width: 40%;
+  padding: 10px;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+#form:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
 /* media queries */
 
@@ -448,6 +459,12 @@ input[type=submit]:hover {
         font-size: 60px;
     }
 
+    .contact-block {
+        width: 90%;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+
 }
 
 /* for small screens size from 800px wide and down */
@@ -456,6 +473,10 @@ input[type=submit]:hover {
 
     #logo {
         font-size: 70px;
+    }
+
+    .gallery {
+        flex-direction: column;
     }
 
     .training-columns {

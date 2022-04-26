@@ -32,28 +32,30 @@
             </ul>
         </nav>
     </header>
-    <section id="form">
-        <h1 class="shadow-heading">Contact Us</h1>
-        <div id="form-container">
-        <form action="https://formdump.codeinstitute.net/" method="post" autocomplete="on">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" placeholder="Your name here..." required><br>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" placeholder="Your email here..." required><br>
-            <label for="juniors">Juniors (11-16)</label>
-            <input type="radio" id="juniors" name="training-group" value="Juniors (11-16)">
-            <label for="seniors">Seniors (16+)</label>
-            <input type="radio" id="seniors" name="training-group" value="Seniors (16+)"><br>
-            <textarea name="details" id="details" cols="30" rows="10" placeholder="Enter your questions/queries here..."></textarea><br>
-            <input type="submit" value="Submit">
-        </form>
-        </div>
-        <div class="mapouter">
-            <div class="gmap_canvas">
-                <iframe width="600" height="520" id="gmap_canvas" src="https://maps.google.com/maps?q=stanground%20academy&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br>
-                <a href="https://www.embedgooglemap.net"></a>
+    <h1 class="shadow-heading">Contact Us</h1>
+        <section id="form">
+            <div id="form-container" class="contact-block">
+            <form action="https://formdump.codeinstitute.net/" method="post" autocomplete="on">
+                <label for="name">Your name:</label>
+                <input type="text" id="name" name="name" placeholder="Your name here..." required><br>
+                <label for="email">Your email:</label>
+                <input type="email" id="email" name="email" placeholder="Your email here..." required><br>
+                <p>Which age group do you belong to?</p><br>
+                <label for="juniors">Juniors (11-16)</label>
+                <input type="radio" id="juniors" name="training-group" value="Juniors (11-16)">
+                <label for="seniors">Seniors (16+)</label>
+                <input type="radio" id="seniors" name="training-group" value="Seniors (16+)"><br>
+                <textarea name="details" id="details" cols="30" rows="10" placeholder="Enter your questions/queries here..."></textarea><br>
+                <input type="submit" value="Submit">
+            </form>
             </div>
-        </div>
+            <div id="mapouter" class="contact-block">
+                <div class="gmap_canvas">
+                    <iframe width="600" height="520" id="gmap_canvas" src="https://maps.google.com/maps?q=stanground%20academy&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br>
+                    <a href="https://www.embedgooglemap.net"></a>
+                </div>
+            </div>
+        </section>
     </section>
 <!-- footer -->
 
