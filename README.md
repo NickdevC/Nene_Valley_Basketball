@@ -51,7 +51,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 ## Features
 
-- ### Existing Features
+   ### Existing Features
       
 -   __Navigation Bar__
 
@@ -59,13 +59,67 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
       ![Navbar](documentation/supporting_images/NVV_navbar.jpg)
 
--   __Hero image and call to action__
+-   __Home page - Hero image and call to action__
 
-    - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Fixtures and Training, and Contact links and is responsive on multiple screen sizes.  On medium sized screens (smaller laptops or ipads), the navigation menu moves to under the logo. On small screen sizes (mobile phones), the logo is abbreviated to ensure legibility, accessibility and effective use of space.
+    - The landing page consists of a large, iconic hero image, an overlaying inspiration quote, and a button that sends the user to the contacts page.
+    - The image is instantly recognisable, identifying the focus of the website, whilst also conveying a sense of action with the slight zoom animation when the page is loaded by the user.
+    - The overlaying text is designed to engage with users by encouraging them to consider one of the key ethos of the club: teamwork. In addition to this, the button then encourages the user to make contact and engage directly with the club by opening communication channels (signign up new members is one of the fundamental purposes of the website).
+    - The overlaying text has been designed to be legible and accessible on all devices with responsive designs in place.
 
       ![Navbar](documentation/supporting_images/NVV_landing.jpg)
+      
+-   __Home page - Tagline__
+
+    - The 
+
+      ![Navbar](documentation/supporting_images/NVV_tagline.jpg)
+      
+-   __Home page - About section__
+
+    - The 
+
+      ![Navbar](documentation/supporting_images/NVV_about_images.jpg)
+      
+      ![Navbar](documentation/supporting_images/NVV_about_text.jpg)
+
+-   __Footer__
+
+    - The 
+
+      ![Navbar](documentation/supporting_images/NVV_footer.jpg)
+      
+-   __Fixtures & Training page - Fixtures calendar__
+
+    - The 
+
+      ![Navbar](documentation/supporting_images/NVV_fixtures.jpg)
+      
+-   __FIxtures & Training page - Training schedule__
+
+    - The 
+
+      ![Navbar](documentation/supporting_images/NVV_training.jpg)
+      
+-   __Contact Us page__
+
+    - The 
+
+      ![Navbar](documentation/supporting_images/NVV_tagline.jpg)
+
+   ### Potential Future Features
 
 ## Design
+
+   ### Colour
+   
+   
+   ### Typography
+   
+   
+   ### Imagery
+   
+   
+   ### Planning/wireframes 
 
 ## Technologies Used
 
