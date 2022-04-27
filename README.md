@@ -56,6 +56,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
 -   __Navigation Bar__
 
     - The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Fixtures and Training, and Contact links and is responsive on multiple screen sizes.  On medium sized screens (smaller laptops or ipads), the navigation menu moves to under the logo. On small screen sizes (mobile phones), the logo is abbreviated to ensure legibility, accessibility and effective use of space.
+    - In order to make my logo more eye-catching and increase the contrast from the rest of the navigation bar, I applied a white outline to the text.
 
       ![Navbar](documentation/supporting_images/NVV_navbar.jpg)
 
