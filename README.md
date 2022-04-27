@@ -63,20 +63,24 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
     - The landing page consists of a large, iconic hero image, an overlaying inspiration quote, and a button that sends the user to the contacts page.
     - The image is instantly recognisable, identifying the focus of the website, whilst also conveying a sense of action with the slight zoom animation when the page is loaded by the user.
-    - The overlaying text is designed to engage with users by encouraging them to consider one of the key ethos of the club: teamwork. In addition to this, the button then encourages the user to make contact and engage directly with the club by opening communication channels (signign up new members is one of the fundamental purposes of the website).
-    - The overlaying text has been designed to be legible and accessible on all devices with responsive designs in place.
+    - The overlaying text is designed to engage with users by encouraging them to consider one of the key ethos of the club: teamwork. The text section has been designed to be legible and accessible on all devices with responsive designs in place.
+    - In addition to this, the button (which links directly to the Contact Us page) then encourages the user to make contact and engage directly with the club by opening communication channels (signing up new members is one of the fundamental purposes of the website).
 
       ![Navbar](documentation/supporting_images/NVV_landing.jpg)
       
 -   __Home page - Tagline__
 
-    - The 
+    - In order to seperate the hero image from the additional 'about' section, I decided to include a tagline to establish the club's prominant position in the local area. It includes an established date and the location.
+    - The tagline is bold, with no additional imagery that could otherwise distract the user from firm message being conveyed.  
 
       ![Navbar](documentation/supporting_images/NVV_tagline.jpg)
       
 -   __Home page - About section__
 
-    - The 
+    - The about section is designed to give first or returning users the chance to get a basic understanding or 'flavour' of the club.
+    - Three action-driven images help to give the home page more life and vibrancy whilst acting as a window into what the club's day-to-day experience may look like for the user.
+    - Three columns of text act to give the user more specific, detailed information about the clubs structure and their achievements (setting them apart from other competing institutions)
+    - This section has been designed to be repsonsive, switching to a row structure on smaller screen sizes. 
 
       ![Navbar](documentation/supporting_images/NVV_about_images.jpg)
       
