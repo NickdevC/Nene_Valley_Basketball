@@ -135,21 +135,41 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 ## Deployment
 
+   ### How to deploy
+
+- Go to the GitHub repository and navigate to the 'Settings' tab. Once there, select 'Pages' from the menu
+- Go to the 'Source' menu (drop-down box) and select 'Master Branch'
+- After the page has auto-refreshed, you should see a detailed ribbon display - this demonstrates a successful deployment
+- Now, any changes pushed from GitPod to the master branch will be visible and take effect on the live project [live project link](https://nickdevc.github.io/Nene_Valley_Basketball/index.html)
+
+   ### How to clone
+
+- Go to the following repository on GitHub: https://nickdevc.github.io/Nene_Valley_Basketball/index.html
+- At the top right of the screen, click the 'Code' button, and then click 'HTTPs'
+- Copy the link in this field
+- In GitPod, open a new GitBash terminal and go to the directory where you want to find the clone
+- On the command line type "git clone", then paste the copied url and press 'Enter'
+- The clone process should now begin
+
 ## Credits
 
-  ### Photos Used
+  ### Photos
+  
 -  Index.html 'hero image' - Photo from 'Pixabay'
 -  'Youth basketball' image - Photo by <a href="https://unsplash.com/@tjump?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik Shuliahin</a> on <a href="https://unsplash.com/s/photos/youth-basketball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 -  'Senior player holding ball' image - [Photo by Mídia from Pexels](https://www.pexels.com/photo/man-in-gray-sleeveless-shirt-carrying-white-and-brown-spalding-basketball-974509/)
 -  'Senior player performing a layup' image - [Photo by Wallace Chuck from Pexels](https://www.pexels.com/photo/basketball-players-2874717/)
   
 
-  ### Specific Coding Support
+  ### Code
+  
 -  'How to outline text' - SlackOverflow
 -  'How to animate an image' - Love Running (Code Institute project)
 -  Inspiration for structuring a README file from [Elainebroche-dev's githubproject](http://github.com/elainebroche-dev/ms1-thrive)
 -  Support with aligning images using [float](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp)
 -  My mentor Martina for specific support regarding Git commands and using 'Git pull'
-  
 
+### Acknowledgements
+
+- I want to say thank you to my mentor Martina, who consistently gave me good avdice, valuable challenge, and helped me keep things in perspective throughout the project.
   
