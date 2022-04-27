@@ -195,7 +195,7 @@ h1 {
 }
 
 .columns h2 {
-    font-family: Bebas Neue, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     color: rgb(204, 160, 0);
     font-size: 42px;
     letter-spacing: 2px;
@@ -240,7 +240,7 @@ footer {
 /* fixtures table */
 
 .shadow-heading {
-    font-family: Bebas Neue, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     color: rgb(204, 160, 0);
     margin: 5% 10% 5% 10%;
     text-align: center;
@@ -249,7 +249,7 @@ footer {
 
 #table h3 {
     font-size: 190%;
-    font-family: Bebas Neue, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     color: rgb(204, 160, 0);
     margin: auto;
     width: 75%;
@@ -315,7 +315,7 @@ tr:hover {
 }
 
 .training-container h2 {
-    font-family: Bebas Neue, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     color: rgb(204, 160, 0);
     font-size: 60px;
     text-align: center;
@@ -392,7 +392,7 @@ input[type=radio] {
 input[type=submit] {
     background-color: rgb(0, 8, 20);
     color: rgb(204, 160, 0);
-    font-family: Babas Neue, sans-serif;
+    font-family: "Babas Neue", sans-serif;
     font-weight: 400;
     font-size: 160%;
     border-radius: 20px;
