@@ -428,6 +428,11 @@ input[type=submit]:hover {
     clear: both;
   }
 
+#thanks_feedback h2 {
+    text-align: center;
+    color: rgb(0, 29, 61);
+}
+
 /* media queries */
 
 /* for large screens size from 1450px wide and down */
