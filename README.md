@@ -112,7 +112,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
     - The contact form on this page is designed to allow users to begin a dialogue with the club and share some of their contact information. For new/potential players, they can easily ask questions, using the text area box, that are personal to their needs, whilst existing players can leave less pressing or urgent communication with their coach.
     - I also included radio buttons which not only allow the organisation to categorise queries, but also provides an opportunity to collect important data regarding usage. In the future, the club could use this information to reveal which type of user makes up the majority of internet traffic on the site and make changes in light of this to boost further traffic.
 
-      ![Navbar](documentation/supporting_images/NVV_contacts.jpg)
+      ![Navbar](documentation/supporting_images/NVV_contact.jpg)
 
    ### Potential Future Features
 
