@@ -88,19 +88,22 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 -   __Footer__
 
-    - The 
+    - The footer provides the user with access to four social media links (currently the basketball club only has an active presence on Facebook). These allow users to easily connect with the clubs current trending information, communicate with other players/like-minded people, share their thoughts and engage in recent media. 
 
       ![Navbar](documentation/supporting_images/NVV_footer.jpg)
       
 -   __Fixtures & Training page - Fixtures calendar__
 
-    - The 
+    - One of the core purposes of the website is for current players to be able to access current fixtures information during their training season. These users will regularly be returning to the site and therfore need this information to be easily accessible and easy to navigate. 
+    - I decided to use a table to display this information as columns provided me with clear, seperated spaces for key data. 
+    - There is also some feedback generated for the user in the form of a highlight that applies to a row when the user hovers their pointer over it. This ensures the user can pinpoint a specific row and easily record information that could otherwise be lost in the table. 
+    - The table itself is also responsive and, when displayed on small screens, will provide a scroll bar so that font-size remains legible whilst not compromising on it's prupose or aesthetics.
 
       ![Navbar](documentation/supporting_images/NVV_fixtures.jpg)
       
 -   __FIxtures & Training page - Training schedule__
 
-    - The 
+    - For first time, or new users, the club training times are simple yet important pieces of information. For this reason, they are displayed in large bold containers at the bottom of the page.
 
       ![Navbar](documentation/supporting_images/NVV_training.jpg)
       
