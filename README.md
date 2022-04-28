@@ -134,6 +134,44 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 ## Testing
 
+### Validator Testing
+   
+#### HTML
+   
+- Result for index.html
+
+   ![Navbar](documentation/validation_results/Testing_HTML_Home.jpg)
+
+- Result for fixtures.html
+
+   ![Navbar](documentation/validation_results/Testing_HTML_Fixtures.jpg)
+
+- Result for contact.html
+
+   ![Navbar](documentation/validation_results/Testing_HTML_Contact.jpg)
+   
+#### CSS
+
+- Result for style.css
+
+   ![Navbar](documentation/validation_results/Testing_CSS_Result.jpg)
+   
+- Remaining warnings
+   
+   - The remaining two warning are due to a webkit extension for specific browser support
+
+   ![Navbar](documentation/validation_results/Testing_CSS_Warnings.jpg)
+   
+#### Full Validation Results
+
+- [HTML index.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Home.pdf)
+- [HTML fixtures.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Fixtures.pdf)
+- [HTML contact.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Contact.pdf)
+- [CSS style.css](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3C_CSS_Validator_results.pdf)
+   
+   
+   
+   
 ## Deployment
 
    ### How to deploy
