@@ -120,20 +120,109 @@ To provide an engaging and appealing space to prospective players, encouraging t
 ## Design
 
    ### Colour
-   
+- After carrying out research surrounding the current clubs colours, it was evident that black and gold were the prominent tones that represented Nene Valley Venom.
+- I used [Coolors](https://coolors.co/) to explore different colour schemes that best matched the club's brand and settled on [this](https://coolors.co/palette/000814-001d3d-003566-cca000-f5cc00) palette. Not only did the palette provide a matching gold tone, it also provided an interesting contrast with blacks and dark navy blues.
    
    ### Typography
    
+- [Google Fonts](https://fonts.google.com/) was used to source scripts that would be legible, link to the brand identity of the club, and also relate to the wider 'sporting world'.
+- 'Babas Neue' was chosen for all headings, subheadings and the logo. The font is not only bold and dominant (much like the club), but it also speaks to vintage sports clothing associated with basketball teams from the 20th century. In order to make this font even more impactful, I was able to apply an outline to the logo, cementing it as an iconic brand.
+- 'Inter' was chosen for all remaining text elements. It is simplistic in design, easily legible, and also does not detract from the impact of the attention-grabbing headings.
    
    ### Imagery
-   
+
+- The large hero image was chosen as it conveyed a sense of success for both potential and returning players. I also chose the image because it gives a sense of familiarity to the target audience of the website.
+- The three images on the home page were chosen as they not only conveyed a sense of action and pace, but also, in some cases reflected the colour scheme and brand identity of the club.
    
    ### Planning/wireframes 
 
 ## Technologies Used
 
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts](https://fonts.google.com/)
+      - Used to import specific fonts.
+      - The fonts 'Inter' and 'Babas Neue' were used throughout the project and were present all pages.
+-   [Font Awesome](https://fontawesome.com/)
+      - Used to add icons for aesthetic and UX purposes.
+      - The icons were applied to the navigational menu links, footer, and some subheadings
+-   [Git](https://git-scm.com/)
+      - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub](https://github.com/)
+      - Used as the respository for the projects code after being pushed from Git.
+-   [Balsamiq](https://balsamiq.com/)
+      - Used to create wireframes during the initial design stages.
+-   [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-gb&gl=GB)
+      - Used to edit photos/images that would later be deployed to the site.
+-   [Coolors]((https://coolors.co/)
+      - Used to source a colour palette that would link to the club's brand identity.
+-   [Techsini](https://techsini.com/multi-mockup/index.php)
+      - Used to create mockup images of my live website on numerous different devices.
+
 ## Testing
 
+### Validator Testing
+   
+#### HTML
+   
+- Result for index.html
+
+   ![Navbar](documentation/validation_results/Testing_HTML_Home.jpg)
+
+- Result for fixtures.html
+
+   ![Navbar](documentation/validation_results/Testing_HTML_Fixtures.jpg)
+
+- Result for contact.html
+
+   ![Navbar](documentation/validation_results/Testing_HTML_Contact.jpg)
+   
+#### CSS
+
+- Result for style.css
+
+   ![Navbar](documentation/validation_results/Testing_CSS_Result.jpg)
+   
+- Remaining warnings
+   
+   - The remaining two warning are due to a webkit extension for specific browser support
+
+   ![Navbar](documentation/validation_results/Testing_CSS_Warnings.jpg)
+   
+#### Full Validation Results
+
+- [HTML Results - index.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Home.pdf)
+- [HTML Results - fixtures.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Fixtures.pdf)
+- [HTML Results - contact.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Contact.pdf)
+- [CSS Results - style.css](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3C_CSS_Validator_results.pdf)
+   
+### Lighthouse Testing   
+
+### Browser Compatibility
+
+- Testing has been successfully carried out on the following browsers:
+   
+   - Google Chrome - Version 100.0.4896.60 (Official Build) (64-bit)
+   - Microsoft Edge - Version 100.0.1185.50 (Official build) (64-bit)
+   - Mozilla FIrefox - Version 99.0.1 (64-bit)
+   - Safari - Version 
+
+### Resolved Bugs
+
+- When applying the "float" property to elements positioned above the footer element, I found the footer text would move up the page and overlap other content. Changing/adding attributes and properties within the sections and divs above the footer did not resolve the problem
+   
+   - Solution: I applied the "clear:both" property to the footer element
+
+- When creating media queries to allow my navigational bar menu to move under the logo on smaller screen sizes, I found that white space would continue to be created, seperating the navigational bar from the hero image. I initially believed this was due to the way I was applying the "float" property to the navigational bar menu
+
+   - Solution: I applied a negative value to the "margin-top" property
+   
+   
 ## Deployment
 
    ### How to deploy
@@ -156,7 +245,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
   ### Photos
   
--  Index.html 'hero image' - Photo from 'Pixabay'
+-  'Hero image' - Photo from 'Pixabay'
 -  'Youth basketball' image - Photo by <a href="https://unsplash.com/@tjump?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik Shuliahin</a> on <a href="https://unsplash.com/s/photos/youth-basketball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 -  'Senior player holding ball' image - [Photo by Mídia from Pexels](https://www.pexels.com/photo/man-in-gray-sleeveless-shirt-carrying-white-and-brown-spalding-basketball-974509/)
 -  'Senior player performing a layup' image - [Photo by Wallace Chuck from Pexels](https://www.pexels.com/photo/basketball-players-2874717/)
