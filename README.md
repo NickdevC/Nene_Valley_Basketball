@@ -132,6 +132,30 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 ## Technologies Used
 
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts](https://fonts.google.com/)
+      - Used to import specific fonts.
+      - The fonts 'Inter' and 'Babas Neue' were used throughout the project and were present all pages.
+-   [Font Awesome](https://fontawesome.com/)
+      - Used to add icons for aesthetic and UX purposes.
+      - The icons were applied to the navigational menu links, footer, and some subheadings
+-   [Git](https://git-scm.com/)
+      - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub](https://github.com/)
+      - Used as the respository for the projects code after being pushed from Git.
+-   [Balsamiq](https://balsamiq.com/)
+      - Used to create wireframes during the initial design stages.
+-   [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-gb&gl=GB)
+      - Used to edit photos/images that would later be deployed to the site.
+-   [Techsini](https://techsini.com/multi-mockup/index.php)
+      - Used to create mockup images of my live website on numerous different devices.
+
 ## Testing
 
 ### Validator Testing
@@ -213,7 +237,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
   ### Photos
   
--  Index.html 'hero image' - Photo from 'Pixabay'
+-  'Hero image' - Photo from 'Pixabay'
 -  'Youth basketball' image - Photo by <a href="https://unsplash.com/@tjump?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik Shuliahin</a> on <a href="https://unsplash.com/s/photos/youth-basketball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 -  'Senior player holding ball' image - [Photo by Mídia from Pexels](https://www.pexels.com/photo/man-in-gray-sleeveless-shirt-carrying-white-and-brown-spalding-basketball-974509/)
 -  'Senior player performing a layup' image - [Photo by Wallace Chuck from Pexels](https://www.pexels.com/photo/basketball-players-2874717/)
