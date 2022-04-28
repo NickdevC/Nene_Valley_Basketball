@@ -120,13 +120,19 @@ To provide an engaging and appealing space to prospective players, encouraging t
 ## Design
 
    ### Colour
-   
+- After carrying out research surrounding the current clubs colours, it was evident that black and gold were the prominent tones that represented Nene Valley Venom.
+- I used [Coolors](https://coolors.co/) to explore different colour schemes that best matched the club's brand and settled on [this](https://coolors.co/palette/000814-001d3d-003566-cca000-f5cc00) palette. Not only did the palette provide a matching gold tone, it also provided an interesting contrast with blacks and dark navy blues.
    
    ### Typography
    
+- [Google Fonts](https://fonts.google.com/) was used to source scripts that would be legible, link to the brand identity of the club, and also relate to the wider 'sporting world'.
+- 'Babas Neue' was chosen for all headings, subheadings and the logo. The font is not only bold and dominant (much like the club), but it also speaks to vintage sports clothing associated with basketball teams from the 20th century. In order to make this font even more impactful, I was able to apply an outline to the logo, cementing it as an iconic brand.
+- 'Inter' was chosen for all remaining text elements. It is simplistic in design, easily legible, and also does not detract from the impact of the attention-grabbing headings.
    
    ### Imagery
-   
+
+- The large hero image was chosen as it conveyed a sense of success for both potential and returning players. I also chose the image because it gives a sense of familiarity to the target audience of the website.
+- The three images on the home page were chosen as they not only conveyed a sense of action and pace, but also, in some cases reflected the colour scheme and brand identity of the club.
    
    ### Planning/wireframes 
 
@@ -153,6 +159,8 @@ To provide an engaging and appealing space to prospective players, encouraging t
       - Used to create wireframes during the initial design stages.
 -   [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-gb&gl=GB)
       - Used to edit photos/images that would later be deployed to the site.
+-   [Coolors]((https://coolors.co/)
+      - Used to source a colour palette that would link to the club's brand identity.
 -   [Techsini](https://techsini.com/multi-mockup/index.php)
       - Used to create mockup images of my live website on numerous different devices.
 
