@@ -203,6 +203,10 @@ To provide an engaging and appealing space to prospective players, encouraging t
    
 ### Lighthouse Testing   
 
+   ![Navbar](documentation/validation_results/Testing_Lighthouse.png)
+   
+- To increase the 'Accessibility' score, I would need to alter the colour of the text slightly to improve contrast. At this stage I felt that would compromise the overall design but it is something that could be altered in the future.
+
 ### Browser Compatibility
 
 - Testing has been successfully carried out on the following browsers:
@@ -210,7 +214,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
    - Google Chrome - Version 100.0.4896.60 (Official Build) (64-bit)
    - Microsoft Edge - Version 100.0.1185.50 (Official build) (64-bit)
    - Mozilla FIrefox - Version 99.0.1 (64-bit)
-   - Safari - Version 
+   - Safari - Version 13.1.3 (15609.4.1)
 
 ### Resolved Bugs
 
