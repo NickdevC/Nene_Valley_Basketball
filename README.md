@@ -170,6 +170,25 @@ To provide an engaging and appealing space to prospective players, encouraging t
 - [CSS Results - style.css](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3C_CSS_Validator_results.pdf)
    
 ### Lighthouse Testing   
+
+### Browser Compatibility
+
+- Testing has been successfully carried out on the following browsers:
+   
+   - Google Chrome - Version 100.0.4896.60 (Official Build) (64-bit)
+   - Microsoft Edge - Version 100.0.1185.50 (Official build) (64-bit)
+   - Mozilla FIrefox - Version 99.0.1 (64-bit)
+   - Safari - Version 
+
+### Resolved Bugs
+
+- When applying the "float" property to elements positioned above the footer element, I found the footer text would move up the page and overlap other content. Changing/adding attributes and properties within the sections and divs above the footer did not resolve the problem
+   
+   - Solution: I applied the "clear:both" property to the footer element
+
+- When creating media queries to allow my navigational bar menu to move under the logo on smaller screen sizes, I found that white space would continue to be created, seperating the navigational bar from the hero image. I initially believed this was due to the way I was applying the "float" property to the navigational bar menu
+
+   - Solution: I applied a negative value to the "margin-top" property
    
    
 ## Deployment
