@@ -203,9 +203,9 @@ To provide an engaging and appealing space to prospective players, encouraging t
    
 ### Lighthouse Testing   
 
-   ![Navbar](documentation/validation_results/Testing_Lighthouse.png)
+   ![Navbar]
    
-- To increase the 'Accessibility' score, I would need to alter the colour of the text slightly to improve contrast. At this stage I felt that would compromise the overall design but it is something that could be altered in the future.
+- 
 
 ### Browser Compatibility
 
