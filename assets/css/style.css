@@ -241,6 +241,8 @@ footer {
 
 .shadow-heading {
     font-family: "Bebas Neue", sans-serif;
+    font-size: 80px;
+    letter-spacing: 8px;
     color: rgb(204, 160, 0);
     margin: 5% 10% 5% 10%;
     text-align: center;
@@ -256,7 +258,7 @@ footer {
     padding: 10px;
 }
 
-#table-container {
+.table-container {
     margin: auto;
     width: 75%;
     padding: 10px;
@@ -264,13 +266,13 @@ footer {
     overflow-y: auto;
 }
 
-#fixtures {
+.fixtures {
     width: 100%;
     font-family: Inter, sans-serif;
     color: rgb(0, 29, 61);    
 }
 
-#fixtures th {
+.fixtures th {
     font-size: 120%;
     text-align: center;
     padding: 15px;
