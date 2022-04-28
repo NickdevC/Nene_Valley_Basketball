@@ -172,5 +172,5 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
 ### Acknowledgements
 
-- I want to say thank you to my mentor Martina, who consistently gave me good avdice, valuable challenge, and helped me keep things in perspective throughout the project.
+- I want to say thank you to my mentor Martina, who consistently gave me good advice, valuable challenge, and helped me keep things in perspective throughout the project.
   
