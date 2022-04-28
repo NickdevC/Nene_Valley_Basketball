@@ -416,6 +416,14 @@ input[type=submit]:hover {
     width: 100%;
 }
 
+iframe {
+    border: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .contact-block {
   float: left;
   width: 40%;
@@ -429,6 +437,8 @@ input[type=submit]:hover {
     display: table;
     clear: both;
   }
+
+/* form content dump page */
 
 #thanks_feedback h2 {
     text-align: center;
