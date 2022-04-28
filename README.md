@@ -164,12 +164,12 @@ To provide an engaging and appealing space to prospective players, encouraging t
    
 #### Full Validation Results
 
-- [HTML index.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Home.pdf)
-- [HTML fixtures.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Fixtures.pdf)
-- [HTML contact.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Contact.pdf)
-- [CSS style.css](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3C_CSS_Validator_results.pdf)
+- [HTML Results - index.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Home.pdf)
+- [HTML Results - fixtures.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Fixtures.pdf)
+- [HTML Results - contact.html](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3_HTML_Validator_results_Contact.pdf)
+- [CSS Results - style.css](https://github.com/NickdevC/Nene_Valley_Basketball/blob/main/documentation/validation_results/W3C_CSS_Validator_results.pdf)
    
-   
+### Lighthouse Testing   
    
    
 ## Deployment
