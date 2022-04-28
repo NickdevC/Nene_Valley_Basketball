@@ -215,7 +215,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
    ![Navbar](documentation/validation_results/Testing_Lighthouse_Contact.png)
    
-- Testing using the Lighthouse feature of Google Chrome's Developer Tools was useful in identifying issues with my initial colour choices (contrast was not enough to warrant high accessibility scores). As a result, I was able to change the much of the headings so that the site was more accessible for all. 
+- Testing using the Lighthouse feature of Google Chrome's Developer Tools was useful in identifying issues with my initial colour choices (contrast was not enough to warrant high accessibility scores). As a result, I was able to change much of the heading elements so that the site was more accessible for all. 
 - In addition to this, I found that my performance score on the fixtures.html page would vary (even on the same device) with no changes being made to the code itself. I am however confident that the page performs on all devices and a range of browsers.
 
 ### Browser Compatibility
