@@ -203,9 +203,15 @@ To provide an engaging and appealing space to prospective players, encouraging t
    
 ### Lighthouse Testing   
 
-   ![Navbar]
+- Results for index.html
+
+   ![Navbar](documentation/validation_results/Testing_Lighthouse_Home.png)
    
-- 
+- Results for fixtures.html
+
+   ![Navbar](
+   
+      
 
 ### Browser Compatibility
 
