@@ -102,15 +102,15 @@ To provide an engaging and appealing space to prospective players, encouraging t
 
       ![Navbar](documentation/supporting_images/NVV_fixtures.jpg)
       
--   __FIxtures & Training page - Training schedule__
+-   __Fixtures & Training page - Training schedule__
 
-    - For first time, or new users, the club training times are simple yet important pieces of information. For this reason, they are displayed in large bold containers at the bottom of the page.
+    - For first time, or new users, the club training times are simple yet important pieces of information. For this reason, they are displayed in large, bold containers at the bottom of the page.
 
       ![Navbar](documentation/supporting_images/NVV_training.jpg)
       
 -   __Contact Us page__
 
-    - The contact form on this page is designed to allow users to begin a dialogue with the club and share some of their contact information. For new/potential players, they can easily ask questions, using the text area box, that are personal to their needs, whilst existing players can leave less pressing or urgent communication with their coach.
+    - The contact form on this page is designed to allow users to begin a dialogue with the club and share some of their contact information. For new/potential players, they can easily ask questions, using the text area box, that are personal to their needs, whilst existing players can leave less pressing communication with their coach.
     - I also included radio buttons which not only allow the organisation to categorise queries, but also provides an opportunity to collect important data regarding usage. In the future, the club could use this information to reveal which type of user makes up the majority of internet traffic on the site and make changes in light of this to boost further traffic.
 
       ![Navbar](documentation/supporting_images/NVV_contact.jpg)
@@ -133,7 +133,7 @@ To provide an engaging and appealing space to prospective players, encouraging t
    ### Typography
    
 - [Google Fonts](https://fonts.google.com/) was used to source scripts that would be legible, link to the brand identity of the club, and also relate to the wider 'sporting world'.
-- 'Babas Neue' was chosen for all headings, subheadings and the logo. The font is not only bold and dominant (much like the club), but it also speaks to vintage sports clothing associated with basketball teams from the 20th century. In order to make this font even more impactful, I was able to apply an outline to the logo, cementing it as an iconic brand.
+- 'Babas Neue' was chosen for all headings, subheadings and the logo. The font is not only bold and dominant (much like the club), it also speaks to vintage sports clothing associated with basketball teams from the 20th century. In order to make this font even more impactful, I was able to apply an outline to the logo, making the text jump off the navigation bar.
 - 'Inter' was chosen for all remaining text elements. It is simplistic in design, easily legible, and also does not detract from the impact of the attention-grabbing headings.
    
    ### Imagery
