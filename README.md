@@ -116,6 +116,13 @@ To provide an engaging and appealing space to prospective players, encouraging t
       ![Navbar](documentation/supporting_images/NVV_contact.jpg)
 
    ### Potential Future Features
+   
+- Scrolling news/information banner on the home page
+   - This could potentially allow returning users to quickly access the current and more pressing communication from the club
+- News section on the home page
+   - This could directly link to Twitter and offer a live window into the up-to-date social media posts from the club
+- A 'Resources' page
+   - This could provide links to downloadable content that users could access to support their training
 
 ## Design
 
@@ -134,7 +141,19 @@ To provide an engaging and appealing space to prospective players, encouraging t
 - The large hero image was chosen as it conveyed a sense of success for both potential and returning players. I also chose the image because it gives a sense of familiarity to the target audience of the website.
 - The three images on the home page were chosen as they not only conveyed a sense of action and pace, but also, in some cases reflected the colour scheme and brand identity of the club.
    
-   ### Planning/wireframes 
+   ### Initial Wireframe Plans
+   
+   #### Home Page Design
+   
+   ![Navbar](documentation/design_wireframes/Index.html.png)
+   
+   #### Fixtures Page Design
+   
+   ![Navbar](documentation/design_wireframes/Fixtures.html.png)
+   
+   #### Contact Page Design
+   
+   ![Navbar](documentation/design_wireframes/Contact.html.png)
 
 ## Technologies Used
 
