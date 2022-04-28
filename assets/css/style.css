@@ -249,10 +249,10 @@ footer {
     text-shadow: 2px 2px 5px rgb(0, 29, 61, .4);
 }
 
-#table h3 {
+#table h2 {
     font-size: 190%;
     font-family: "Bebas Neue", sans-serif;
-    color: rgb(204, 160, 0);
+    color: #8F7000;
     margin: auto;
     width: 75%;
     padding: 10px;
@@ -276,7 +276,7 @@ footer {
     font-size: 120%;
     text-align: center;
     padding: 15px;
-    background-color: rgb(204, 160, 0);
+    background-color: #8F7000;
     color: white;
 }
 
